@@ -331,6 +331,6 @@ a.lk2:hover {
 .link2:hover {
 	background-color:#fff;
 	background-color:rgba(255,255,255,0,2);
-	border:2px solid #BBB;
+	border:2px solid #BBC;
 	transition:all 0.8s;
 }
